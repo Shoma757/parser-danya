@@ -1,3 +1,5 @@
 telethon==1.28.5
 pandas==1.5.3
+numpy==1.23.5
+aiohttp==3.8.5
 openpyxl==3.0.10
